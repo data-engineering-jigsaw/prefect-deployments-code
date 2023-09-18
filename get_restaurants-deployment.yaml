@@ -11,7 +11,7 @@ tags: []
 parameters:
   url: HONDURAS MAYA CAFE & BAR LLC
 schedule:
-  interval: 60.0
+  interval: 100.0
   anchor_date: '2023-06-08T16:19:13.912508+00:00'
   timezone: America/Chicago
 is_schedule_active: true
@@ -37,7 +37,7 @@ infrastructure:
   _block_type_slug: process
 storage: null
 path: /Users/jeffreykatz/Documents/jigsaw/curriculum/1-career-services/prefect-curriculum/5-prefect-deployments/code
-entrypoint: index.py:get_data
+entrypoint: index.py:get_restaurants
 parameter_openapi_schema:
   title: Parameters
   type: object
