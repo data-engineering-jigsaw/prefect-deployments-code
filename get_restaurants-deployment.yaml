@@ -36,7 +36,7 @@ infrastructure:
   block_type_slug: process
   _block_type_slug: process
 storage: null
-path: /Users/jeffreykatz/Documents/jigsaw/curriculum/1-career-services/prefect-curriculum/5-prefect-deployments/code
+path: /home/ec2-user/prefect-deployments-code
 entrypoint: index.py:get_restaurants
 parameter_openapi_schema:
   title: Parameters
